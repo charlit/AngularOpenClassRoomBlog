@@ -46,7 +46,7 @@
               "src/assets"
             ],
             "styles": [
-              "../ProjotOpenClassroomAngularBlog/node_modules/bootstrap/dist/css//bootstrap.css",
+              "../ProjetAngularOpenClassRoom/node_modules/bootstrap/dist/css//bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
